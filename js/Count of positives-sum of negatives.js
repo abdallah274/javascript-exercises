@@ -3,7 +3,7 @@
 // 0 is neither positive nor negative.
 //If the input is an empty array or is null, return an empty array.
 
-let arr =[0, 2, 3, 0, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14]; //[10 , -65]
+//let arr =[0, 2, 3, 0, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14]; //[10 , -65]
 
 // function countPositivesSumNegatives(input) {
 //   let countOfPositives =[];
@@ -28,3 +28,4 @@ return [countOfPositives , sumOfNegative];
  } 
 
 console.log(countPositivesSumNegatives(arr)); */
+
