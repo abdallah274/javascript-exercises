@@ -25,4 +25,4 @@ function findAverage(array) {
 }
  */
 
-console.log(findAverage(arr));
+//console.log(findAverage(arr));
